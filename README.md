@@ -1,0 +1,1 @@
+# odoo-16-CE---algolia-module
